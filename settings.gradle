@@ -1,2 +1,3 @@
+include ':frogotoast'
 include ':app'
 rootProject.name = "Toasty"
