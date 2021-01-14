@@ -5,9 +5,9 @@ SDK for your toast problem to make easier developing android apps
 frogo-toast is under huge large development (Discontinued)
 
 # Reason Discontinued
-You can read this:
-Official Documentation - https://developer.android.com/reference/android/widget/Toast
-Stackoverflow Issue - https://stackoverflow.com/questions/63312296/method-setview-is-deprecated
+- You can read this:
+- Official Documentation - https://developer.android.com/reference/android/widget/Toast
+- Stackoverflow Issue - https://stackoverflow.com/questions/63312296/method-setview-is-deprecated
 
 # Version Release
 This Is Latest Release
