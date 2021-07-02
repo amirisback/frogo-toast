@@ -1,14 +1,12 @@
-# Frogo Toast (Discontinued)
-
-# About This Project
+## Frogo Toast (Discontinued)
 SDK for your toast problem to make easier developing android apps
 frogo-toast is under huge large development (Discontinued)
 
-# Reason Discontinued
+## Reason Discontinued
 - Official Documentation - https://developer.android.com/reference/android/widget/Toast
 - Stackoverflow Issue - https://stackoverflow.com/questions/63312296/method-setview-is-deprecated
 
-# Version Release
+## Version Release
 This Is Latest Release
 
     $version_release = Discontinued
@@ -18,7 +16,7 @@ What's New??
     * Discontinued *
 
 
-# Download this project
+## Download this project
 
 ### Step 1. Add the JitPack repository to your build file (build.gradle : Project)
 
@@ -39,7 +37,7 @@ What's New??
     }
 
 
-# Colaborator
+## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
 
 - Mail To faisalamircs@gmail.com
@@ -53,6 +51,6 @@ Name Of Contribute
 
 Waiting for your contribute
 
-# Attention !!!
+## Attention !!!
 - Please enjoy and don't forget fork and give a star
 - Don't Forget Follow My Github Account
